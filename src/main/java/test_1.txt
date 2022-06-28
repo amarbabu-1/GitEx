@@ -2,3 +2,4 @@ This is a new file.
 Second line added.
 Third line added
 fourth line added.
+fifth line.
